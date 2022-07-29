@@ -6,7 +6,7 @@ let employee = {};
 employee.code = 10;
 employee.name = "John";
 
-### 02. Como podemos melhorar o esse código usando TS? 
+### 02. Como podemos melhorar esse código usando TS? 
 
 let pessoa1 = {};
 pessoa1.nome = "maria";
